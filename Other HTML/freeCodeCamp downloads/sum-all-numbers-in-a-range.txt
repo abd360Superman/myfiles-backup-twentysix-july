@@ -1,0 +1,17 @@
+function sumAll(arr) {
+  if(arr[0] < arr[1]) {
+    let sum = 0;
+    for(var i = arr[0]; i <= arr[1]; i++) {
+      sum += i;
+    }
+    return sum
+  } else {
+    let sum = 0;
+    for(var i = arr[1]; i <= arr[0]; i++) {
+      sum += i;
+    }
+    return sum
+  }
+}
+
+sumAll([1, 4]);

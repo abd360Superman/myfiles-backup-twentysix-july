@@ -1,0 +1,30 @@
+<html>
+	<head>
+		<title>Object about myself</title>
+	</head>
+	<body>
+		<h1>To view an object about me...</h1>
+		<p>
+			On Macbook, do <b>cmd shift i</b>
+			<br>
+			On Windows/PC, do <b>ctrl shift i</b>
+		</p>
+		<script>
+			var aboutMe = {
+				firstName: "Darsh ",
+				lastName: "Choudhary",
+				fullName: function() {
+					return this.firstName + this.lastName;
+				}, 
+				hobbies: {
+					hobby1: "Coding",
+					hobby2: "Cricket",
+					hobby3: "Table Tennis", 
+					hobby4: "CricT"
+				},
+				age: 11
+			};
+			console.log(aboutMe);
+		</script>
+	</body>
+</html

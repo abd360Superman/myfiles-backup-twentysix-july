@@ -1,0 +1,236 @@
+{
+    "users": [
+        {
+            "username": "ch@ng",
+            "password": "Jira789#",
+            "fname": "Jiraiya",
+            "lname": "Chang",
+            "email": "jiraiyachang@narutopedia.com",
+            "gameScores": {
+                "tictactoe": {
+                    "matches": 0,
+                    "wins": 0,
+                    "loses": 0
+                },
+                "hangman": {
+                    "matches": 0,
+                    "wins": 0,
+                    "loses": 0
+                },
+                "rockpaperscissor": {
+                    "matches": 9,
+                    "wins": 3,
+                    "loses": 2
+                },
+                "whackamole": {
+                    "matches": 0,
+                    "wins": 0,
+                    "loses": 0
+                }
+            }
+        },
+        {
+            "username": "shishim@ru",
+            "password": "Orochi125!",
+            "fname": "Lord",
+            "lname": "Orochimaru",
+            "email": "lordorochimaru@uchihaverse.com",
+            "gameScores": {
+                "tictactoe": {
+                    "matches": 0,
+                    "wins": 0,
+                    "loses": 0
+                },
+                "hangman": {
+                    "matches": 2,
+                    "wins": 2,
+                    "loses": 0
+                },
+                "rockpaperscissor": {
+                    "matches": 0,
+                    "wins": 0,
+                    "loses": 0
+                },
+                "whackamole": {
+                    "matches": 0,
+                    "wins": 0,
+                    "loses": 0
+                }
+            }
+        },
+        {
+            "username": "dash171",
+            "password": "Helpline12#",
+            "fname": "Darsh",
+            "lname": "Choudhary",
+            "email": "darshchoudhary171@gmail.com",
+            "gameScores": {
+                "tictactoe": {
+                    "matches": 0,
+                    "wins": 0,
+                    "loses": 0
+                },
+                "hangman": {
+                    "matches": 1,
+                    "wins": 1,
+                    "loses": 0
+                },
+                "rockpaperscissor": {
+                    "matches": 0,
+                    "wins": 0,
+                    "loses": 0
+                },
+                "whackamole": {
+                    "matches": 0,
+                    "wins": 0,
+                    "loses": 0
+                }
+            }
+        },
+        {
+            "username": "sush1",
+            "password": "Sushi15!",
+            "fname": "Sushi",
+            "lname": "Singh",
+            "email": "sushisingh@pappucontinent.com",
+            "gameScores": {
+                "tictactoe": {
+                    "matches": 0,
+                    "wins": 0,
+                    "loses": 0
+                },
+                "hangman": {
+                    "matches": 1,
+                    "wins": 1,
+                    "loses": 0
+                },
+                "rockpaperscissor": {
+                    "matches": 0,
+                    "wins": 0,
+                    "loses": 0
+                },
+                "whackamole": {
+                    "matches": 0,
+                    "wins": 0,
+                    "loses": 0
+                }
+            }
+        },
+        {
+            "username": "henoishe",
+            "password": "Hash456!",
+            "fname": "Hashirama",
+            "lname": "Senju",
+            "email": "hashiramasenju@willoffire.com",
+            "gameScores": {
+                "tictactoe": {
+                    "matches": 0,
+                    "wins": 0,
+                    "loses": 0
+                },
+                "hangman": {
+                    "matches": 0,
+                    "wins": 0,
+                    "loses": 0
+                },
+                "rockpaperscissor": {
+                    "matches": 9,
+                    "wins": 3,
+                    "loses": 2
+                },
+                "whackamole": {
+                    "matches": 0,
+                    "wins": 0,
+                    "loses": 0
+                }
+            }
+        },
+        {
+            "username": "copy ninja",
+            "password": "Kaka971@",
+            "fname": "Kakashi",
+            "lname": "Hatake",
+            "email": "hatakekakashi@copyninja.com",
+            "gameScores": {
+                "tictactoe": {
+                    "matches": 2,
+                    "wins": 2,
+                    "loses": 0
+                },
+                "hangman": {
+                    "matches": 1,
+                    "wins": 1,
+                    "loses": 0
+                },
+                "rockpaperscissor": {
+                    "matches": 1,
+                    "wins": 1,
+                    "loses": 0
+                },
+                "whackamole": {
+                    "matches": 0,
+                    "wins": 0,
+                    "loses": 0
+                }
+            }
+        },
+        {
+            "username": "Moo",
+            "password": "Guy123@@",
+            "fname": "Maito",
+            "lname": "Gai",
+            "email": "maitogai@youth.com",
+            "gameScores": {
+                "tictactoe": {
+                    "matches": 1,
+                    "wins": 1,
+                    "loses": 0
+                },
+                "hangman": {
+                    "matches": 1,
+                    "wins": 1,
+                    "loses": 0
+                },
+                "rockpaperscissor": {
+                    "matches": 1,
+                    "wins": 1,
+                    "loses": 0
+                },
+                "whackamole": {
+                    "matches": 1,
+                    "wins": 0,
+                    "loses": 1
+                }
+            }
+        },
+        {
+            "username": "laaldesert",
+            "password": "Sand007*",
+            "fname": "Sasori",
+            "lname": "Red Sand",
+            "email": "sasoriredsand@puppeteer.com",
+            "gameScores": {
+                "tictactoe": {
+                    "matches": 0,
+                    "wins": 0,
+                    "loses": 0
+                },
+                "hangman": {
+                    "matches": 0,
+                    "wins": 0,
+                    "loses": 0
+                },
+                "rockpaperscissor": {
+                    "matches": 0,
+                    "wins": 0,
+                    "loses": 0
+                },
+                "whackamole": {
+                    "matches": 2,
+                    "wins": 1,
+                    "loses": 1
+                }
+            }
+        }
+    ]
+}

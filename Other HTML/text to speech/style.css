@@ -1,0 +1,25 @@
+body .center-this {
+    text-align: center;
+}
+
+body h5 ol {
+    list-style-type: upper-roman;
+    background: #ff9999;
+    padding: 20px;
+}
+body h5 ol li {
+    background: #ffe5e5;
+    padding: 5px;
+    margin-left: 35px;
+}
+
+body h5 ol span {
+    font-size: 2em;
+    text-decoration: underline;
+}
+
+body .center-this #textbox {
+    width: 70%;
+    margin: 15 auto;
+    height: 40%;
+}

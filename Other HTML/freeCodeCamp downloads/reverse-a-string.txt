@@ -1,0 +1,15 @@
+function reverseString(str) {
+  let myArr = [];
+  for(var i = 0; i < str.length; i++) {
+    myArr.push(str[i]);
+  }
+  console.log(myArr);
+  str = ''
+  for(var i = myArr.length -1; i > -1; i--) {
+    str += myArr[i];
+  }
+  console.log(str);
+  return str;
+}
+
+reverseString("hello");

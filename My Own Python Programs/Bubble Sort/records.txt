@@ -1,0 +1,20 @@
+New Entry. Unsorted numbers: 
+ 7, 2, 3, 9, 1, 
+Sorted numbers: 
+ 1, 2, 3, 7, 9, 
+New Entry. Unsorted numbers: 
+ 7, 2, 3, 9, 1, 
+Sorted numbers: 
+ 1, 2, 3, 7, 9, 
+New Entry. Unsorted numbers: 
+ 12, 34, 79, 65, 41, 7, 65, 42, 1, 
+Sorted numbers: 
+ 1, 7, 12, 34, 41, 42, 65, 65, 79, 
+New Entry. Unsorted numbers: 
+ 26, 89, 25, 7, 6, 
+Sorted numbers: 
+ 6, 7, 25, 26, 89, 
+New Entry. Unsorted numbers: 
+ 97, 79, 57, 75, 34, 43, 12, 21, 
+Sorted numbers: 
+ 12, 21, 34, 43, 57, 75, 79, 97, 

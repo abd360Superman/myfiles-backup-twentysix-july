@@ -1,0 +1,14 @@
+Git steps:
+
+1. Make new folder and copy-paste all files and folders of your code
+2. Go to the newly made folder, right click and click on option 'Git Bash Here'
+3. Go to github.com -> Make a new repository -> Click on code button with download icon -> Click on copy button for the HTTPS URL
+4. Type in the following commands: 
+	git init
+	git remote add origin (paste the link that was copied)
+	git remote -v
+	git add .
+	git commit -m "Custom commit name"
+	git push origin master
+5. Go back to your Github repo, Click on compare and pull -> <Code> -> Master Branch to see your code
+6. Settings -> Pages -> Branch: Master -> Save to host the website!

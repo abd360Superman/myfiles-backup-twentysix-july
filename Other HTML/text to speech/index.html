@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <title>Second Voice</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1 id="heading" class="center-this">Text to Speech</h1>
+
+        <h5 id="description">
+            <ol>
+                <span>Steps to follow: </span>
+                <br><br><br>
+                <li>Type what you want the computer to speak in the input below</li>
+                <li>Press the 'start text to speech' button once you are done</li>
+            </ol>
+        </h5>
+
+        <div id="text" class="form-group center-this">
+            <textarea class="form-control" id="textbox" placeholder="Type your text for the computer to say here"></textarea>
+
+            <button id="start_btn" class="btn btn-primary" onclick="start()">Start Text to Speech</button>
+        </div>
+
+        <script src="main.js"></script>
+    </body>
+</html>

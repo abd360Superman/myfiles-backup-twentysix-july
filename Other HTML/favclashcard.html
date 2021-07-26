@@ -1,0 +1,17 @@
+<DOCTYPE html>
+<html>
+  <head>
+    <title>Favourite Clash Royale Card</title>
+  </head>
+  <body>
+    <script src = "https://code.jquery.com/jquery-2.1.0.js"></script>
+    <script>
+      var favouriteClashRoyaleCard = prompt("What is your favourite Clash Royale Card");
+      $("body").append("<h1>" + favouriteClashRoyaleCard + "</h1>");
+      for (var i = 0; i < 5; i++) {
+        $("h1").fadeOut(1000);
+        $("h1").fadeIn(1000);
+      }
+    </script> 
+  </body>
+</html>

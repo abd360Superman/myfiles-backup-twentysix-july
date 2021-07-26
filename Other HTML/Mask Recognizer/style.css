@@ -1,0 +1,16 @@
+* {
+    font-size: 1.8em;
+    font-family: 'Inter', sans-serif;
+    position: relative;
+}
+body {
+    background-color: blue;
+}
+marquee {
+    background-color: azure;
+    width: 100%
+}
+p {
+    margin-left: 5%;
+    font-size: 5vw;
+}
